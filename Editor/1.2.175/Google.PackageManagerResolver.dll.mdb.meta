@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 678abf9fd45a41d182aea1542e83aebe
+guid: 05f38fc976de49d0a8bac11b0591b35c
 labels:
 - gvh
 - gvh_version-7.4.1
-- gvhp_exportpath-ExternalDependencyManager/Editor/Google.VersionHandler.dll.mdb
+- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.175/Google.PackageManagerResolver.dll.mdb
 DefaultImporter:
   externalObjects: {}
   userData: 
